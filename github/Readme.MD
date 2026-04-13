@@ -53,5 +53,5 @@ sudo mv gsmart.sh /usr/local/bin/gsmart
 
 Now you can dirctly use the command:
 ```
-gsmart.sh
+gsmart
 ```
